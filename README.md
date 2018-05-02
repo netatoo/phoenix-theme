@@ -2,38 +2,6 @@
 
 Dark & Light custom UI themes with colors variations for Sublime Text 2
 
-## Design & Colors
-
-### Light Theme
-![Phoenix Light Theme](https://www.dropbox.com/s/cgg8zg4r5abybf5/Phoenix-Light.png?dl=1)
-
-##### Light Blue
-![Phoenix Light Blue Theme](https://www.dropbox.com/s/td4bae0nd0aop2z/Phoenix-Light-Blue.png?dl=1)
-
-##### Light Dark Blue
-![Phoenix Light Dark Blue Theme](https://www.dropbox.com/s/t64a18yj9vz77jn/Phoenix-Light-DarkBlue.png?dl=1)
-
-### Dark Theme
-![Phoenix Dark Theme](https://www.dropbox.com/s/quie907jiksh3ww/Phoenix-Dark.png?dl=1)
-
-##### Dark Green
-![Phoenix Dark Green Theme](https://www.dropbox.com/s/iy2v2guv2l0h6vm/Phoenix-Dark-Green.png?dl=1)
-
-##### Dark Blue
-![Phoenix Dark Blue Theme](https://www.dropbox.com/s/g0wj453ommvwrwz/Phoenix-Dark-Blue.png?dl=1)
-
-##### Dark Red
-![Phoenix Dark Red Theme](https://www.dropbox.com/s/jb8e5tv853pbty4/Phoenix-Dark-Red.png?dl=1)
-
-##### Dark Pink
-![Phoenix Dark Pink Theme](https://www.dropbox.com/s/evbjor5ivj0ks57/Phoenix-Dark-Pink.png?dl=1)
-
-##### Dark Orange
-![Phoenix Dark Orange Theme](https://www.dropbox.com/s/d9dp4xgrzn600kk/Phoenix-Dark-Orange.png?dl=1)
-
-##### Dark Yellow
-![Phoenix Dark Yellow Theme](https://www.dropbox.com/s/07n441u6e12n7g8/Phoenix-Dark-Yellow.png?dl=1)
-
 ## Todo's
 
 - Add more alternate colors for Light Theme (green, red, orange)
@@ -94,23 +62,17 @@ You can hightlight or not the text label (filename) of the selected tab :
 
     "phoenix_highlight_current_tab": true    
 
-![Phoenix Dark Highlight Current Tab](https://www.dropbox.com/s/9fvu5arfn6gx3ju/Phoenix-Highlight-Current-Tab.png?dl=1)
-
 ## Eighties mode for selected tab
 
 If you use Phoenix Dark Eighties or Tomorrow Night Eighties color scheme, you will love having this option enabled!
 
     "phoenix_eighties": true    
 
-![Phoenix Dark Eighties Current Tab](https://www.dropbox.com/s/sybtg5vsbw4026n/Phoenix-Dark-Eighties.png?dl=1)
-
 ## Solid selected tabs
 
 Enable this setting to get **solid** background color on the selected tab :
 
     "phoenix_solid_current_tab": true
-
-![Phoenix Dark Solid Current Tab](https://www.dropbox.com/s/q7nbyo1bzijmmwt/Phoenix-Solid-Current-Tab.png?dl=1)
 
 ## Alternate dirty state for inactive tabs
 
@@ -122,8 +84,6 @@ Also, you can choose the color of the bottom bar (default is white, colors avail
 
     "phoenix_dirty_bottom_bar_red": true
 
-![Phoenix Dark Dirty State](https://www.dropbox.com/s/p2hjsaird41wmva/Phoenix-Dirty-State.png?dl=1)
-
 ## Adjust row's height on sidebar tree
 
 Example for large sidebar tree :
@@ -131,8 +91,6 @@ Example for large sidebar tree :
     "phoenix_sidebar_tree_large": true
 
 For now, five additionnal height are available : `xsmall`, `small`, `medium`, `large`, and `xlarge`
-
-![Phoenix Sidebar Tree](https://www.dropbox.com/s/tn474da08mn86ws/Phoenix-Sidebar-Tree.png?dl=1)
 
 ## Colorize opened folders on Dark Theme
 
@@ -175,11 +133,9 @@ Also, Phoenix Theme provide two slightly modified color scheme to magnify the in
 
 #### Clouds Midnight
 Original theme : (http://fredhq.com/projects/clouds)
-![Phoenix Dark Clouds Midnight](https://www.dropbox.com/s/zhkhzlz0ojn7f89/Phoenix-CloudsMidnightScheme.png?dl=1)
 
 #### Tomorrow Night
 Original theme : (https://github.com/chriskempson/Tomorrow-Theme)
-![Phoenix Dark Tomorrow Night](https://www.dropbox.com/s/tocgeisfsi9ttoe/Phoenix-TomorrowScheme.png?dl=1)
 
 ### Retina Resolution UI
 
